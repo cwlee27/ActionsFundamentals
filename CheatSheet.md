@@ -1,4 +1,4 @@
-# Cheat Sheet
+# Cheat Sheet (modified)
 
 This document contains an overview of fundamental concepts and terminology, you can use this as a reference book if you get lost in the terminology along the way.
 
